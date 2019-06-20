@@ -1,7 +1,7 @@
 {
-      "name":"MemosHelloWorld",
+      "name":"HelloWorld",
       "description":"My first plentymarket plugin",
-      "namespace":"MemosHelloWorld",
+      "namespace":"HelloWorld",
       "author":"Tomas Smekal",
       "type":"template",
       "serviceProvider":"HelloWorld\\Providers\\HelloWorldServiceProvider"
